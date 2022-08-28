@@ -9,10 +9,12 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int 
+int
 main(int argc, char **argv) {
 
-  printf("Josephine Hartley, Computer Engineering\n");
+  printf("Josephine Hartley\n");
+
+  printf("Major: Computer Engineering\n");
 
   return 0;
 }
